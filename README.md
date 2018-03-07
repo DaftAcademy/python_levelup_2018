@@ -1,7 +1,12 @@
 # Python Level UP
+![logo kursu](https://github.com/daftcode/python_levelup_2018/blob/master/logo.png)
+
 ## Ważne linki
 Informacje organizacyjne:
 [https://www.facebook.com/events/1552802084832333/](https://www.facebook.com/events/1552802084832333/)
+
+## Plan zajęć
+![Plan zajęć](https://github.com/daftcode/python_levelup_2018/blob/master/plan_zajec.png)
 
 Materiały z zajęć:
 [https://github.com/daftcode/python_levelup_2018](https://github.com/daftcode/python_levelup_2018)
