@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Wyrenderowane z templatki</title>
+</head>
+<body>
+    {% for key, value in query_string_data|dictsort %}
+        <h1>{{ key }}: {{ value }}</h1>
+    {% endfor %}
+</body>
+</html>
