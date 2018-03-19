@@ -1,5 +1,7 @@
 # Praca domowa 2
 
+Odpowiedź podaj **wyłącznie** przez: https://goo.gl/forms/l51AAbUGAlDVMJAc2
+
 Na odpowiedzi czekamy do 20.03.2018 23:59:59 czasu polskiego.
 
 ## Zadanie
