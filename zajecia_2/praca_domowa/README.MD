@@ -44,7 +44,7 @@ Wykonaj endpointy według poniższych wymagań:
             "who": "Znajomy",
             "where": {
                 "lat": 0.001,
-                "long" 0.002
+                "long": 0.002
             },
             "mass": 34.56,
             "length": 23.67,
@@ -54,7 +54,7 @@ Wykonaj endpointy według poniższych wymagań:
             "who": "Kolega kolegi",
             "where": {
                 "lat": 34.001,
-                "long" 52.002
+                "long": 52.002
             },
             "mass": 300.12,
             "length": 234.56,
@@ -71,7 +71,7 @@ Wykonaj endpointy według poniższych wymagań:
         "who": "Znajomy",
         "where": {
             "lat": 0.001,
-            "long" 0.002
+            "long": 0.002
         },
         "mass": 34.56,
         "length": 23.67,
@@ -97,7 +97,7 @@ Wykonaj endpointy według poniższych wymagań:
         "who": "Znajomy",
         "where": {
             "lat": 0.001,
-            "long" 0.002
+            "long": 0.002
         },
         "mass": 34.56,
         "length": 23.67,
@@ -116,7 +116,7 @@ Wykonaj endpointy według poniższych wymagań:
         "who": "Nieznajomy",
         "where": {
             "lat": 0.001,
-            "long" 0.002
+            "long": 0.002
         },
         "mass": 34.56,
         "length": 23.67,
