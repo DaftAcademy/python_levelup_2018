@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edytuj aktora</title>
+</head>
+<body>
+<form action="/actors/edit/{{ actor_id }}" method="post">
+  Imię:<br>
+  <input type="text" name="first_name" value="{{ actor['first_name'] }}"><br>
+  Nazwisko:<br>
+  <input type="text" name="last_name" value="{{ actor['last_name'] }}"><br><br>
+  <input type="submit" value="Dodaj">
+</form>
+
+<form action="/actors/delete/{{ actor_id }}" method="post">
+    <input type="submit" value="Usuń">
+</form>
+</body>
+</html>

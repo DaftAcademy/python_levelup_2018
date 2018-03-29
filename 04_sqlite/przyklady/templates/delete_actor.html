@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Usuń aktora</title>
+</head>
+<body>
+  Imię: {{ actor['first_name'] }}<br>
+  Nazwisko: {{ actor['last_name'] }}<br>
+
+<form action="/actors/delete/{{ actor_id }}" method="post">
+    <input type="submit" value="Usuń">
+</form>
+</body>
+</html>

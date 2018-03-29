@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aktorzy</title>
+</head>
+<body>
+  <ul>
+    Imię i nazwisko
+    {% for actor in actors %}
+      <li>{{ actor['first_name'] + ' ' + actor['last_name'] }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

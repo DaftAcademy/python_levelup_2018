@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Filmy z kategorią</title>
+</head>
+<body>
+  <ul>
+      Nazwa, Kategoria
+  {% for film in films %}
+      <li>{{ film['title'] }} {{ film['name'] }}</li>
+  {% endfor %}
+  </ul>
+</body>
+</html>

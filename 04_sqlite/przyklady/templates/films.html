@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Filmy</title>
+</head>
+<body>
+  <ul>
+    Nazwa
+    {% for film in films %}
+      <li>{{ film['title'] }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
