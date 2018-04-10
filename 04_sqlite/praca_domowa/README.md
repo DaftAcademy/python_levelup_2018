@@ -2,7 +2,7 @@
 
 Wszystkie podpunkty należy rozwiązać z wykorzystaniem testowej bazy danych Sakila (więcej o bazie Sakila w materiałach do zajęć). Dla celów testów istotne jest, żeby wasza baza zawierała dokładnie te same dane co na zajęciach. Także jeśli będziecie robić jakieś eksperymenty w trakcie rozwiązywania zadań, to pamiętajcie o wrzuceniu czystej bazy na koniec. Pamiętajcie też o uwagach Kuby z wykładu odnośnie działania SQLite na heroku. 
 
-Na rozwiązania czekamy do środy 04.04.2018 23:59:59 CEST
+Na rozwiązania czekamy do wtorku 10.04.2018 23:59:59 CEST
 
 Rozwiązania prosimy przesyłać tylko za pośrednictwem formularza: https://goo.gl/forms/7lzl6pfnSwUgLlhz1
 
