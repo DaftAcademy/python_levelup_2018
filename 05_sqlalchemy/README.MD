@@ -1,6 +1,6 @@
 # Praca domowa nr 5
 
-Na rozwiązania czekamy do środy 10.04.2018 23:59:59 CEST.
+Na rozwiązania czekamy do wtorku 10.04.2018 23:59:59 CEST.
 
 Rozwiązania prosimy przesyłać tylko za pośrednictwem formularza: https://goo.gl/forms/8ik0T9z3FeI8exzI2 
 
